@@ -87,11 +87,9 @@ This will probably be removed in a future release.
 
 
 
+## Contact us
 
-
-
-
-
+(Please add links to issue tracker and enable in GitHub)
 
 
 
